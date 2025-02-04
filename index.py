@@ -1,0 +1,2 @@
+czesc = "Hello"
+print(czesc)
