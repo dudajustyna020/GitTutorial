@@ -1,2 +1,2 @@
-czesc = "Hello"
+czesc = "Hello Kolega"
 print(czesc)
